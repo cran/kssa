@@ -1,0 +1,15 @@
+d6fd9db63aaffa66e5d98b11783aee32 *DESCRIPTION
+d949f029611808c5b23062082a24b2ad *NAMESPACE
+7fa8d07a0cc7e3c529389b0269455c67 *NEWS.md
+ae30248dd97d4a971d8e2172f31a5baf *R/get_imputations.R
+796310a90cd46b553e42d906796f3053 *R/kssa.R
+2060295424229a14e3a6a235ba4875b8 *R/kssa_plot.R
+b56ff2b193ecba52f9ec7f3b10cca008 *R/utils-pipe.R
+9caebcf21ad9c5de7180d68319d7cfca *README.md
+c0d86de7dea4f43941afa0b1d4b9c5a9 *man/figures/final_plot.png
+6ea4e224780b881f8cb4010d2b207eff *man/get_imputations.Rd
+d7ab7eedfd0fba0716a24311d24329d6 *man/kssa.Rd
+0162731f8c5a51503b823e88489b6e7c *man/kssa_plot.Rd
+8f4aad003a999fae004ba9361f9a99d6 *man/pipe.Rd
+54da40850ea53928a6f91354053f23f8 *tests/testthat.R
+225e3812b897786befc574f805c96dc2 *tests/testthat/test-basic.R
